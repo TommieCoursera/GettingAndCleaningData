@@ -87,5 +87,5 @@ output: html_document
 [81,] "fBodyBodyGyroJerkMag-meanFreq()"
 
 ### Sample Output
-![alt text](https://github.com/TommieCoursera/GettingAndCleaningData/SampleDatasetScreenshot.png "Tidy Dataset")
+![alt text](https://github.com/TommieCoursera/GettingAndCleaningData/blob/master/SampleDatasetScreenshot.png "Tidy Dataset")
 
